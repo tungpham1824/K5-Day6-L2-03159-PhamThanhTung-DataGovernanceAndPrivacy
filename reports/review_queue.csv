@@ -1,0 +1,4 @@
+rank,item_id,score,reason,suggested_action,slice,evidence_path,reviewer,reviewer_decision,override_value,review_note,reviewed_at
+1,C13,5.0,MAYBE_ONLY,,,,Pham Thanh Tung,escalate,,Cell C13 chi co 1 clip co tag unknown (clip_053) nen khong dam bao phu that. Can quay them 1 clip urban/fog/night/pedestrian.,2026-11-14T17:00:00+07:00
+2,C15,4.0,UNCOVERABLE_IN_POOL,,,,Pham Thanh Tung,approve,,Cell C15 khong co clip nao trong pool (alley/rain/dusk/pedestrian). Da dua vao capture plan de quay bo sung. Chap nhan REWORK.,2026-11-14T17:00:00+07:00
+3,C09,2.5,FRAGILE,,,,Pham Thanh Tung,approve,,Cell C09 chi co 1 clip chac chan (clip_081) va khong co backup. Chap nhan risk vi clip nay da duoc chon va co chat luong tot.,2026-11-14T17:00:00+07:00

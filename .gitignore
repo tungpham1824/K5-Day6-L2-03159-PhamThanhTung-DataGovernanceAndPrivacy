@@ -17,6 +17,7 @@ data/cache/
 # Run outputs
 out/
 runs/
+tmp_test/
 *.log
 
 # Python
@@ -32,3 +33,6 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+
+tmp_test/
+tmp_review/
